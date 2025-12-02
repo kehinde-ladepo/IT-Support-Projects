@@ -1,2 +1,11 @@
-# IT-Support-Projects
-IT support projects covering troubleshooting, ticket management, Windows/macOS support, Office 365, Azure AD, VPN, and MFA.
+# IT Support Projects
+
+This repository highlights IT support projects and experience, including:
+
+- Windows & macOS troubleshooting  
+- Account, password, and MFA issues  
+- Office 365 and Azure AD support  
+- VPN and connectivity troubleshooting  
+- Ticket documentation and root cause analysis  
+
+These projects reflect my hands-on work helping users, reducing downtime, and improving the overall support experience.
